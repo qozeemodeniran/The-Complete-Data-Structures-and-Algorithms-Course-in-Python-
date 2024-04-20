@@ -1,0 +1,5 @@
+# using the array module:
+import array
+
+arr1 = array.array('i', [1,2,3,4])
+print(arr1)
