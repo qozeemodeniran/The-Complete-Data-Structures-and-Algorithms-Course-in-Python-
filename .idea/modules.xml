@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python/2024/.idea/2024.iml" filepath="$PROJECT_DIR$/../python/2024/.idea/2024.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/The-Complete-Data-Structures-and-Algorithms-Course-in-Python-.iml" filepath="$PROJECT_DIR$/.idea/The-Complete-Data-Structures-and-Algorithms-Course-in-Python-.iml" />
     </modules>
   </component>
